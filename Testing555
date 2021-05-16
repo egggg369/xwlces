@@ -1,3 +1,7 @@
 test if I touch a new , I checkout branch to dev
 make some modify on dev
+<<<<<<< Updated upstream
 on main write somthing 
+=======
+on main write somthing else  
+>>>>>>> Stashed changes
