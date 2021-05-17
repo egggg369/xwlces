@@ -1,2 +1,6 @@
 make a test
+<<<<<<< Updated upstream
 make test2
+=======
+test3
+>>>>>>> Stashed changes
